@@ -2,3 +2,4 @@ __pycache__
 app/__pycache__
 consumer/__pycache__
 producer/__pycache__
+email-spam
