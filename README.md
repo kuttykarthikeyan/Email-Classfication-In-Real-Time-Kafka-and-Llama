@@ -1,3 +1,4 @@
+```markdown
 # Email Spam Classifier  
 Classifies emails into Spam, Phishing, or Legitimate using Kafka, LLaMA3.1 8B, and MongoDB.  
 
@@ -114,4 +115,7 @@ python consumer_main.py
 ## Author  
 Karthikeyan S – Data Scientist  
 
-Happy Coding!  
+For any queries, contact me at **karthikeyan25062005@gmail.com**  
+
+Happy Coding!
+```
